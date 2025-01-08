@@ -1,10 +1,10 @@
 identity:
   author: stealthinu
-  name: mytools
+  name: gworks swiss army knife
   label:
-    en_US: My Tools
+    en_US: gworks swiss army knife
   description:
-    en_US: My Tools
+    en_US: gworks swiss army knife
   icon: icon.svg
   tags:
     - utilities
